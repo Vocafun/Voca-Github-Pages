@@ -1,1 +1,4 @@
-### Welcome to VocaFun's Blog!
+---
+title: "Welcome to my blog"
+date: 2024-11-27
+---
